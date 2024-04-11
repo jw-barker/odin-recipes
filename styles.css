@@ -2,10 +2,17 @@ h1 {
     color: blue;
     font-size: 36px;
     background-color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h4 {
     color: blue;
-    font-size: 36px;
+    font-size: 24px;
+    background-color: brown;
+}
+
+h3 {
+    color: blue;
+    font-size: 30px;
     background-color: brown;
 }
